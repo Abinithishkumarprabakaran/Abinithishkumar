@@ -9,19 +9,29 @@ const SocialMedia = () => {
   return (
     <div className='app__socialmedia'>
       <div>
-        <FiMail />
+        <a href="mailto:letterstonithishkumar@gmail.com">
+          <FiMail />
+        </a>
       </div>
       <div>
-        <FaLinkedinIn />
+        <a href='https://www.linkedin.com/in/abinithishkumarprabakaran/' target='_blank' rel='noreferrer'>
+          <FaLinkedinIn />
+        </a>
       </div>
       <div>
-        <BsInstagram />
+        <a href='https://www.instagram.com/abinithishkumar/' target='_blank' rel='noreferrer'>
+          <BsInstagram />
+        </a>
       </div>
       <div>
-        <BsGithub />
+        <a href='https://github.com/Abinithishkumarprabakaran' target='_blank' rel='noreferrer'>
+          <BsGithub />
+        </a>
       </div>
       <div>
-        <BsTwitter />
+        <a href='https://twitter.com/nithishkumar_pr?t=v8nFiMEWqVfXK_7FYB7huQ&s=35' target='_blank' rel='noreferrer'>
+          <BsTwitter />
+        </a>
       </div>
     </div>
   )
