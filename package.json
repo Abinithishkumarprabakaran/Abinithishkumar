@@ -33,5 +33,17 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.4",
     "vite": "^4.3.2"
-  }
+  },
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abinithishkumarprabakaran/Abinithishkumar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abinithishkumarprabakaran/Abinithishkumar/issues"
+  },
+  "homepage": "https://github.com/Abinithishkumarprabakaran/Abinithishkumar#readme",
+  "description": ""
 }
