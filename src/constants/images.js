@@ -21,6 +21,8 @@ import vscode from '../assets/vscode.png';
 import email from '../assets/email.png';
 import mobile from '../assets/mobile.png';
 import logo from '../assets/logo.png';
+import fitnessApp from '../assets/fitnessApp.png';
+
 export default {
   css,
   git,
@@ -44,5 +46,6 @@ export default {
 
   email,
   mobile,
-  logo
+  logo,
+  fitnessApp,
 };
